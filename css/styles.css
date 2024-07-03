@@ -79,7 +79,12 @@ ul{
     border-radius: 20px;
     color: aliceblue;
     font-style:inherit;
+    transition: 2s;
 
+}
+
+.site-hero-list:hover{
+    transform: scale(1.01);
 }
 .img-tovar{
     border-radius: 20px;
